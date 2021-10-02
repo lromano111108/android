@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="hero_image" type="id">hero_image</item>
+    <item name="hero_name_edit" type="id">hero_name_edit</item>
+    <item name="alter_ego_edit" type="id">alter_ego_edit</item>
+</resources>

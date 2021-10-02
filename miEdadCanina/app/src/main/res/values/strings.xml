@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MY Age Dog</string>
+    <string name="how_old_are_you">How old are you</string>https://meet.jit.si/androidAppKotlin10
+    <string name="your_age">Age</string>
+    <string name="calculate">Calculate</string>
+    <string name="you_must_insert_insert_your_age">you must insert your age</string>
+    <string name="result_text">your age dog is %d years</string>
+
+
+</resources>
